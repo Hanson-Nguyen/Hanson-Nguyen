@@ -8,7 +8,7 @@
     </a>
  </div>
 
-## hello, I'm Hanson Nguyen :man_technologist:
+## hello, my name is Hanson Nguyen :man_technologist:
 
 I'm currently a full-time student pursuing my Masters in Computer Science at FIU. 
 
