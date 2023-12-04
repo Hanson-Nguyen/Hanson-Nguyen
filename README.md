@@ -10,9 +10,9 @@
 
 ## hello, my name is Hanson Nguyen :man_technologist:
 
-I'm currently a full-time student pursuing my Masters in Computer Science at FIU. 
+Graduated with a Masters in Computer Science @ FIU, now driven to change the world with Big Data as well as the Small Data. 
 
-I specialize in backend development but spend my time learning about full stack development. 
+
 
 <br>
 
