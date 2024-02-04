@@ -10,7 +10,7 @@
 
 ## hello, my name is Hanson Nguyen :man_technologist:
 
-On the road to increase my technological footprint, one ai-assisted step at a time
+On the road to increasing my technological footprint, one ai-assisted step at a time
 
 
 
