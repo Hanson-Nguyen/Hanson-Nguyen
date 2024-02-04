@@ -10,7 +10,7 @@
 
 ## hello, my name is Hanson Nguyen :man_technologist:
 
-Graduated with a Masters in Computer Science @ FIU, now driven to change the world with Big Data as well as the Small Data. 
+On the road to increase my technological footprint, one ai-assisted step at a time
 
 
 
