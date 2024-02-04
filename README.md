@@ -8,9 +8,9 @@
     </a>
  </div>
 
-## hello, my name is Hanson Nguyen :man_technologist:
+## hello, my name is Hanson :man_technologist:
 
-On the road to increasing my technological footprint, one ai-assisted step at a time
+Currently, on the road to increasing my technological footprint, one ai-assisted step at a time
 
 
 
