@@ -40,7 +40,7 @@ Currently, on the road to increasing my technological footprint, one ai-assisted
 
 </p>
 
-### Databases & Cloud
+### databases & cloud
 
 <p>
   
@@ -52,7 +52,7 @@ Currently, on the road to increasing my technological footprint, one ai-assisted
 
 </p>
 
-### Data Visualization
+### data visualization
 
 <p>
 
