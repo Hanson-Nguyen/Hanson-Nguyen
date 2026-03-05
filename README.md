@@ -66,7 +66,7 @@ Currently, on the road to increasing my technological footprint, one ai-assisted
 
 #### Other
 
-<img src="https://github.com/Hanson-Nguyen/Hanson-Nguyen/assets/16612552/a239dee4-92d9-4f8a-90d9-a0ca877e5e4e" alt="Typing Test 123 WPM - Dec 4, 2023" width="400"/>
+<img src="<img width="2016" height="594" alt="image" src="https://github.com/user-attachments/assets/27c72636-d4aa-40e0-86b5-a1825491442b" />" alt="Typing Test 123 WPM - Dec 4, 2023" width="400"/>
 
 
 
